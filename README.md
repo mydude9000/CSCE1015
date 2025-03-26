@@ -4,3 +4,5 @@ Assignment repository for UNT CSCE1015
 
 ## Favorite Linux Command
 $ps aux
+## EUID
+$jor0038
